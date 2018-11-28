@@ -1,0 +1,37 @@
+body {
+  background-color: ghostwhite;
+}
+
+.searchSegment {
+  -webkit-box-shadow: 0px 0px 141px -5px rgba(0, 0, 0, 0.73) !important;
+  -moz-box-shadow: 0px 0px 141px -5px rgba(0, 0, 0, 0.73) !important;
+  box-shadow: 0px 0px 141px -5px rgba(0, 0, 0, 0.73) !important;
+  margin-top: 10px !important;
+  margin-bottom: 40px !important;
+  border-radius: 20px !important;
+}
+
+.btnSubmit {
+  margin-left: 50px !important;
+  margin-top: 7px !important;
+  background-color: rgb(175, 133, 133) !important;
+  color: black;
+  font-weight: bold !important;
+}
+
+.inputSubmit {
+  margin-left: 50px !important;
+}
+
+.weatherDiv {
+  border-style: solid;
+  border-color: rgb(175, 133, 133);
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 300px;
+  -webkit-box-shadow: 0px 0px 51px -9px rgba(0,0,0,0.73)!important;
+  -moz-box-shadow: 0px 0px 51px -9px rgba(0,0,0,0.73)!important;
+  box-shadow: 0px 0px 51px -9px rgba(0,0,0,0.73)!important;
+}
